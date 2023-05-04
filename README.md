@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me: Email me in <b> milenyfs.clemente@gmail.com </b> and I will be glad to talk to you!
 - 😄 Pronouns: She/Her
--⚡ Fun fact: I am starting to do pixel art, designer isn't my thing, but i am enjoying so far.
+- ⚡ Fun fact: I am starting to do pixel art, designer isn't my thing, but i am enjoying so far.
 
 <h4>Connect with me: </h4>
 <div display="flex">
