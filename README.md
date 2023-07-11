@@ -34,6 +34,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"></img>
 </div>
 
-<br> 
-<img src="https://github-readme-stats.vercel.app/api?username=milenyclemente&show_icons=true&theme=synthwave" />
+<br>
+<div display="flex">
+<img src="https://github-readme-stats.vercel.app/api?username=milenyclemente&show_icons=true&theme=synthwave" height="215" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenyclemente&layout=donut" />
+</div>
 
