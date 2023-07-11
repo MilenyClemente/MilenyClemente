@@ -35,5 +35,5 @@
 </div>
 
 <br> 
-<img src="https://github-readme-stats.vercel.app/api?username=milenyclemente&show_icons=true&theme=jolly" />
+<img src="https://github-readme-stats.vercel.app/api?username=milenyclemente&show_icons=true&theme=synthwave" />
 
