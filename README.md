@@ -1,42 +1,47 @@
-# Hello, I'm Mileny 👋
-<h4 align="center"> I am a web and game developer, programming is my life. </h4>
+<h2 align="left">Hello 👋! I'm Mileny.</h2>
 
-- 🔭 I’m currently working on web development, using the languages: c#, javascript and web service.
-- 🎓 I'm studying <b> Digital Games at Faculdade de Tecnologia de Americana (FATEC-AM)! </b>
-- 🌱 I’m currently learning React JS
-- 📫 How to reach me: Email me in <b> milenyfs.clemente@gmail.com </b> and I will be glad to talk to you!
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am starting to do pixel art, designer isn't my thing, but i am enjoying so far.
+###
 
-<h4>Connect with me: </h4>
-<div display="flex">
-<a href="https://www.linkedin.com/in/milenyclemente/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30"></img> 
-</a>
-<a href="https://mclement.itch.io/" target="_blank"> 
-<img src="https://github.com/itchio/itch/blob/master/src/static/images/logos/itchio-textless-pink.svg" width="30"></img>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MilenyClemente&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MilenyClemente&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
-<h4> Languages and Tools: </h4> 
-<div display="flex">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="40"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"></img>
+<img align="right" height="150" src="https://i.postimg.cc/8cfFV66q/transferir.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
 </div>
 
-<br>
-<div display="flex">
-<img src="https://github-readme-stats.vercel.app/api?username=milenyclemente&show_icons=true&theme=synthwave" height="215" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenyclemente&layout=donut" />
+###
+
+<div align="left">
+  <a href="mailto:milenyfs.clemente@gmail.com?subject=Perfil%20GitHub&body=Ol%C3%A1..." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/milenyclemente/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
+###
